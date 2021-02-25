@@ -1,0 +1,11 @@
+h1,
+p {
+  font-family: Lato;
+}
+html {
+  background-color: rgb(10, 7, 52);
+}
+img {
+  height: 40px;
+  width: auto;
+}
